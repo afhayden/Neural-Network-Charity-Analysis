@@ -69,7 +69,7 @@ To achieve 78.69% accuracy, surpassing the goal of 75%, the model was optimized 
 The process of trial and error refinement, training, and testing was arduous using the Neural Network method. Although, we achieve an accuracy of 78.69%, it took 4 passes to get.
 
 ### Recommendation
-One posible method to utilize would be the RandomeForestClassifier. This method was tested. Within a matter of seconds, a model was created reaching the same/simiar accuracy rate. Further more, an ordered list of importan features can be produced.
+One posible method to utilize would be the Random Forest Classifier. This method was tested. Within a matter of seconds, a model was created reaching the same/simiar accuracy rate. Further more, an ordered list of importan features can be produced.
 
 ![Classification Report](Images/Classification_Rpt.PNG)
 
